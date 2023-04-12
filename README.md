@@ -47,7 +47,6 @@ print("Accuracy:",accuracy)
 ```
 
 ## Output:
-''' 
 ![image](https://user-images.githubusercontent.com/75235293/231510551-b221b6c1-a0ea-4ace-993a-5b33fb54113b.png)
 
 ## Result:
